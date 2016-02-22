@@ -31,11 +31,6 @@
 	<?php endif; ?>
 
 	<?php do_action( 'foundationpress_layout_start' ); ?>
-    
-    <div class="row">
-        <div class="large-6 medium-6 small-12 small-centered large-centered medium-centered columns">
-        <img id="bart-header" src="<?php bloginfo('template_directory'); ?>/assets/images/BARTIMEUSlogo_eng.svg" >
-        </div>
 
 	<header id="masthead" class="site-header" role="banner">
 		<div class="title-bar" data-responsive-toggle="site-navigation">

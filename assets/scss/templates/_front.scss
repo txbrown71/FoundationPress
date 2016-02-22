@@ -1,4 +1,15 @@
 // Page header
+
+#bart-header {
+		padding: rem-calc(20%) 0;
+		margin: 0 0 rem-calc(10);
+        max-height: 35vh;
+        min-height: 25vh;
+}
+
+
+
+
 #front-hero {
 	.marketing {
 		@include grid-row();
